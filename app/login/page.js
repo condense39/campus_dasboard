@@ -147,7 +147,7 @@ export default function LoginPage() {
                   type="email"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg focus:ring-green-500 focus:border-green-500 outline-none transition-colors"
+                  className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg focus:ring-green-500 focus:border-green-500 outline-none transition-colors text-gray-900"
                   placeholder="you@example.com"
                   required
                 />
@@ -170,7 +170,7 @@ export default function LoginPage() {
                 maxLength="6"
                 value={otp}
                 onChange={(e) => setOtp(e.target.value.replace(/\D/g, ''))}
-                className="block w-full px-3 py-3 text-center tracking-widest text-2xl border border-gray-300 rounded-lg focus:ring-green-500 focus:border-green-500 outline-none transition-colors"
+                className="block w-full px-3 py-3 text-center tracking-widest text-2xl border border-gray-300 rounded-lg focus:ring-green-500 focus:border-green-500 outline-none transition-colors text-gray-900"
                 placeholder="000000"
                 required
               />
