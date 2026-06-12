@@ -1,0 +1,1042 @@
+[
+  {
+    "Event ID": "EV001",
+    "Event Name": "IMG Event 1",
+    "Organizing Club": "IMG",
+    "Category": "Workshop",
+    "Date": "2026-02-02",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IMG"
+  },
+  {
+    "Event ID": "EV002",
+    "Event Name": "IMG Event 2",
+    "Organizing Club": "IMG",
+    "Category": "Workshop",
+    "Date": "2026-03-03",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IMG"
+  },
+  {
+    "Event ID": "EV003",
+    "Event Name": "IMG Event 3",
+    "Organizing Club": "IMG",
+    "Category": "Workshop",
+    "Date": "2026-04-04",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IMG"
+  },
+  {
+    "Event ID": "EV004",
+    "Event Name": "IMG Event 4",
+    "Organizing Club": "IMG",
+    "Category": "Workshop",
+    "Date": "2026-08-04T18:29:50.000Z",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IMG"
+  },
+  {
+    "Event ID": "EV005",
+    "Event Name": "SDSLabs Event 1",
+    "Organizing Club": "SDSLabs",
+    "Category": "Workshop",
+    "Date": "2026-02-06",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by SDSLabs"
+  },
+  {
+    "Event ID": "EV006",
+    "Event Name": "SDSLabs Event 2",
+    "Organizing Club": "SDSLabs",
+    "Category": "Workshop",
+    "Date": "2026-03-07",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by SDSLabs"
+  },
+  {
+    "Event ID": "EV007",
+    "Event Name": "SDSLabs Event 3",
+    "Organizing Club": "SDSLabs",
+    "Category": "Workshop",
+    "Date": "2026-04-08",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by SDSLabs"
+  },
+  {
+    "Event ID": "EV008",
+    "Event Name": "SDSLabs Event 4",
+    "Organizing Club": "SDSLabs",
+    "Category": "Workshop",
+    "Date": "2026-05-09",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by SDSLabs"
+  },
+  {
+    "Event ID": "EV009",
+    "Event Name": "GIL Event 1",
+    "Organizing Club": "GIL",
+    "Category": "Workshop",
+    "Date": "2026-08-09T18:29:50.000Z",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by GIL"
+  },
+  {
+    "Event ID": "EV010",
+    "Event Name": "GIL Event 2",
+    "Organizing Club": "GIL",
+    "Category": "Workshop",
+    "Date": "2026-010-11",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by GIL"
+  },
+  {
+    "Event ID": "EV011",
+    "Event Name": "GIL Event 3",
+    "Organizing Club": "GIL",
+    "Category": "Workshop",
+    "Date": "2026-04-12",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by GIL"
+  },
+  {
+    "Event ID": "EV012",
+    "Event Name": "GIL Event 4",
+    "Organizing Club": "GIL",
+    "Category": "Workshop",
+    "Date": "2026-09-12T18:29:50.000Z",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by GIL"
+  },
+  {
+    "Event ID": "EV013",
+    "Event Name": "EDC Event 1",
+    "Organizing Club": "EDC",
+    "Category": "Workshop",
+    "Date": "2026-02-14",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by EDC"
+  },
+  {
+    "Event ID": "EV014",
+    "Event Name": "EDC Event 2",
+    "Organizing Club": "EDC",
+    "Category": "Workshop",
+    "Date": "2026-03-15",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by EDC"
+  },
+  {
+    "Event ID": "EV015",
+    "Event Name": "EDC Event 3",
+    "Organizing Club": "EDC",
+    "Category": "Workshop",
+    "Date": "2026-04-16",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by EDC"
+  },
+  {
+    "Event ID": "EV016",
+    "Event Name": "EDC Event 4",
+    "Organizing Club": "EDC",
+    "Category": "Workshop",
+    "Date": "2026-05-17",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by EDC"
+  },
+  {
+    "Event ID": "EV017",
+    "Event Name": "Robocon Team Event 1",
+    "Organizing Club": "Robocon Team",
+    "Category": "Workshop",
+    "Date": "2026-02-18",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Robocon Team"
+  },
+  {
+    "Event ID": "EV018",
+    "Event Name": "Robocon Team Event 2",
+    "Organizing Club": "Robocon Team",
+    "Category": "Workshop",
+    "Date": "2026-03-19",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Robocon Team"
+  },
+  {
+    "Event ID": "EV019",
+    "Event Name": "Robocon Team Event 3",
+    "Organizing Club": "Robocon Team",
+    "Category": "Workshop",
+    "Date": "2026-010-20",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Robocon Team"
+  },
+  {
+    "Event ID": "EV020",
+    "Event Name": "Robocon Team Event 4",
+    "Organizing Club": "Robocon Team",
+    "Category": "Workshop",
+    "Date": "2026-05-21",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Robocon Team"
+  },
+  {
+    "Event ID": "EV021",
+    "Event Name": "Geek Gazette Event 1",
+    "Organizing Club": "Geek Gazette",
+    "Category": "Workshop",
+    "Date": "2026-02-22",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Geek Gazette"
+  },
+  {
+    "Event ID": "EV022",
+    "Event Name": "Geek Gazette Event 2",
+    "Organizing Club": "Geek Gazette",
+    "Category": "Workshop",
+    "Date": "2026-03-23",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Geek Gazette"
+  },
+  {
+    "Event ID": "EV023",
+    "Event Name": "Geek Gazette Event 3",
+    "Organizing Club": "Geek Gazette",
+    "Category": "Workshop",
+    "Date": "2026-04-24",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Geek Gazette"
+  },
+  {
+    "Event ID": "EV024",
+    "Event Name": "Geek Gazette Event 4",
+    "Organizing Club": "Geek Gazette",
+    "Category": "Workshop",
+    "Date": "2026-05-25",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Geek Gazette"
+  },
+  {
+    "Event ID": "EV025",
+    "Event Name": "Programming Club Event 1",
+    "Organizing Club": "Programming Club",
+    "Category": "Workshop",
+    "Date": "2026-02-26",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Programming Club"
+  },
+  {
+    "Event ID": "EV026",
+    "Event Name": "Programming Club Event 2",
+    "Organizing Club": "Programming Club",
+    "Category": "Workshop",
+    "Date": "2026-03-27",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Programming Club"
+  },
+  {
+    "Event ID": "EV027",
+    "Event Name": "Programming Club Event 3",
+    "Organizing Club": "Programming Club",
+    "Category": "Workshop",
+    "Date": "2026-04-28",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Programming Club"
+  },
+  {
+    "Event ID": "EV028",
+    "Event Name": "Programming Club Event 4",
+    "Organizing Club": "Programming Club",
+    "Category": "Workshop",
+    "Date": "2026-05-01",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Programming Club"
+  },
+  {
+    "Event ID": "EV029",
+    "Event Name": "AI & ML Community Event 1",
+    "Organizing Club": "AI & ML Community",
+    "Category": "Workshop",
+    "Date": "2026-02-02",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by AI & ML Community"
+  },
+  {
+    "Event ID": "EV030",
+    "Event Name": "AI & ML Community Event 2",
+    "Organizing Club": "AI & ML Community",
+    "Category": "Workshop",
+    "Date": "2026-03-03",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by AI & ML Community"
+  },
+  {
+    "Event ID": "EV031",
+    "Event Name": "AI & ML Community Event 3",
+    "Organizing Club": "AI & ML Community",
+    "Category": "Workshop",
+    "Date": "2026-04-04",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by AI & ML Community"
+  },
+  {
+    "Event ID": "EV032",
+    "Event Name": "AI & ML Community Event 4",
+    "Organizing Club": "AI & ML Community",
+    "Category": "Workshop",
+    "Date": "2026-05-05",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by AI & ML Community"
+  },
+  {
+    "Event ID": "EV033",
+    "Event Name": "Electronics Club Event 1",
+    "Organizing Club": "Electronics Club",
+    "Category": "Workshop",
+    "Date": "2026-02-06",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Electronics Club"
+  },
+  {
+    "Event ID": "EV034",
+    "Event Name": "Electronics Club Event 2",
+    "Organizing Club": "Electronics Club",
+    "Category": "Workshop",
+    "Date": "2026-03-07",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Electronics Club"
+  },
+  {
+    "Event ID": "EV035",
+    "Event Name": "Electronics Club Event 3",
+    "Organizing Club": "Electronics Club",
+    "Category": "Workshop",
+    "Date": "2026-08-07T18:29:50.000Z",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Electronics Club"
+  },
+  {
+    "Event ID": "EV036",
+    "Event Name": "Electronics Club Event 4",
+    "Organizing Club": "Electronics Club",
+    "Category": "Workshop",
+    "Date": "2026-05-09",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Electronics Club"
+  },
+  {
+    "Event ID": "EV037",
+    "Event Name": "Robotics Club Event 1",
+    "Organizing Club": "Robotics Club",
+    "Category": "Workshop",
+    "Date": "2026-02-10",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Robotics Club"
+  },
+  {
+    "Event ID": "EV038",
+    "Event Name": "Robotics Club Event 2",
+    "Organizing Club": "Robotics Club",
+    "Category": "Workshop",
+    "Date": "2026-03-11",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Robotics Club"
+  },
+  {
+    "Event ID": "EV039",
+    "Event Name": "Robotics Club Event 3",
+    "Organizing Club": "Robotics Club",
+    "Category": "Workshop",
+    "Date": "2026-04-12",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Robotics Club"
+  },
+  {
+    "Event ID": "EV040",
+    "Event Name": "Robotics Club Event 4",
+    "Organizing Club": "Robotics Club",
+    "Category": "Workshop",
+    "Date": "2026-05-13",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Robotics Club"
+  },
+  {
+    "Event ID": "EV041",
+    "Event Name": "Web Development Community Event 1",
+    "Organizing Club": "Web Development Community",
+    "Category": "Workshop",
+    "Date": "2026-02-14",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Web Development Community"
+  },
+  {
+    "Event ID": "EV042",
+    "Event Name": "Web Development Community Event 2",
+    "Organizing Club": "Web Development Community",
+    "Category": "Workshop",
+    "Date": "2026-09-14T18:29:50.000Z",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Web Development Community"
+  },
+  {
+    "Event ID": "EV043",
+    "Event Name": "Web Development Community Event 3",
+    "Organizing Club": "Web Development Community",
+    "Category": "Workshop",
+    "Date": "2026-04-16",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Web Development Community"
+  },
+  {
+    "Event ID": "EV044",
+    "Event Name": "Web Development Community Event 4",
+    "Organizing Club": "Web Development Community",
+    "Category": "Workshop",
+    "Date": "2026-05-17",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Web Development Community"
+  },
+  {
+    "Event ID": "EV045",
+    "Event Name": "Open Source Community Event 1",
+    "Organizing Club": "Open Source Community",
+    "Category": "Workshop",
+    "Date": "2026-02-18",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Open Source Community"
+  },
+  {
+    "Event ID": "EV046",
+    "Event Name": "Open Source Community Event 2",
+    "Organizing Club": "Open Source Community",
+    "Category": "Workshop",
+    "Date": "2026-03-19",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Open Source Community"
+  },
+  {
+    "Event ID": "EV047",
+    "Event Name": "Open Source Community Event 3",
+    "Organizing Club": "Open Source Community",
+    "Category": "Workshop",
+    "Date": "2026-04-20",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Open Source Community"
+  },
+  {
+    "Event ID": "EV048",
+    "Event Name": "Open Source Community Event 4",
+    "Organizing Club": "Open Source Community",
+    "Category": "Workshop",
+    "Date": "2026-05-21",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Open Source Community"
+  },
+  {
+    "Event ID": "EV049",
+    "Event Name": "Data Science Community Event 1",
+    "Organizing Club": "Data Science Community",
+    "Category": "Workshop",
+    "Date": "2026-02-22",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Data Science Community"
+  },
+  {
+    "Event ID": "EV050",
+    "Event Name": "Data Science Community Event 2",
+    "Organizing Club": "Data Science Community",
+    "Category": "Workshop",
+    "Date": "2026-03-23",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Data Science Community"
+  },
+  {
+    "Event ID": "EV051",
+    "Event Name": "Data Science Community Event 3",
+    "Organizing Club": "Data Science Community",
+    "Category": "Workshop",
+    "Date": "2026-04-24",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Data Science Community"
+  },
+  {
+    "Event ID": "EV052",
+    "Event Name": "Data Science Community Event 4",
+    "Organizing Club": "Data Science Community",
+    "Category": "Workshop",
+    "Date": "2026-05-25",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Data Science Community"
+  },
+  {
+    "Event ID": "EV053",
+    "Event Name": "Music Section Event 1",
+    "Organizing Club": "Music Section",
+    "Category": "Workshop",
+    "Date": "2026-02-26",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Music Section"
+  },
+  {
+    "Event ID": "EV054",
+    "Event Name": "Music Section Event 2",
+    "Organizing Club": "Music Section",
+    "Category": "Workshop",
+    "Date": "2026-10-26T18:29:50.000Z",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Music Section"
+  },
+  {
+    "Event ID": "EV055",
+    "Event Name": "Music Section Event 3",
+    "Organizing Club": "Music Section",
+    "Category": "Workshop",
+    "Date": "2026-04-28",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Music Section"
+  },
+  {
+    "Event ID": "EV056",
+    "Event Name": "Music Section Event 4",
+    "Organizing Club": "Music Section",
+    "Category": "Workshop",
+    "Date": "2026-05-01",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Music Section"
+  },
+  {
+    "Event ID": "EV057",
+    "Event Name": "Dramatics Section Event 1",
+    "Organizing Club": "Dramatics Section",
+    "Category": "Workshop",
+    "Date": "2026-02-02",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Dramatics Section"
+  },
+  {
+    "Event ID": "EV058",
+    "Event Name": "Dramatics Section Event 2",
+    "Organizing Club": "Dramatics Section",
+    "Category": "Workshop",
+    "Date": "2026-03-03",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Dramatics Section"
+  },
+  {
+    "Event ID": "EV059",
+    "Event Name": "Dramatics Section Event 3",
+    "Organizing Club": "Dramatics Section",
+    "Category": "Workshop",
+    "Date": "2026-04-04",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Dramatics Section"
+  },
+  {
+    "Event ID": "EV060",
+    "Event Name": "Dramatics Section Event 4",
+    "Organizing Club": "Dramatics Section",
+    "Category": "Workshop",
+    "Date": "2026-05-05",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Dramatics Section"
+  },
+  {
+    "Event ID": "EV061",
+    "Event Name": "Debating Society Event 1",
+    "Organizing Club": "Debating Society",
+    "Category": "Workshop",
+    "Date": "2026-02-06",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Debating Society"
+  },
+  {
+    "Event ID": "EV062",
+    "Event Name": "Debating Society Event 2",
+    "Organizing Club": "Debating Society",
+    "Category": "Workshop",
+    "Date": "2026-03-07",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Debating Society"
+  },
+  {
+    "Event ID": "EV063",
+    "Event Name": "Debating Society Event 3",
+    "Organizing Club": "Debating Society",
+    "Category": "Workshop",
+    "Date": "2026-04-08",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Debating Society"
+  },
+  {
+    "Event ID": "EV064",
+    "Event Name": "Debating Society Event 4",
+    "Organizing Club": "Debating Society",
+    "Category": "Workshop",
+    "Date": "2026-05-09",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Debating Society"
+  },
+  {
+    "Event ID": "EV065",
+    "Event Name": "Quiz Club Event 1",
+    "Organizing Club": "Quiz Club",
+    "Category": "Workshop",
+    "Date": "2026-02-10",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Quiz Club"
+  },
+  {
+    "Event ID": "EV066",
+    "Event Name": "Quiz Club Event 2",
+    "Organizing Club": "Quiz Club",
+    "Category": "Workshop",
+    "Date": "2026-07-10T18:29:50.000Z",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Quiz Club"
+  },
+  {
+    "Event ID": "EV067",
+    "Event Name": "Quiz Club Event 3",
+    "Organizing Club": "Quiz Club",
+    "Category": "Workshop",
+    "Date": "2026-04-12",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Quiz Club"
+  },
+  {
+    "Event ID": "EV068",
+    "Event Name": "Quiz Club Event 4",
+    "Organizing Club": "Quiz Club",
+    "Category": "Workshop",
+    "Date": "2026-05-13",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Quiz Club"
+  },
+  {
+    "Event ID": "EV069",
+    "Event Name": "Literary Society Event 1",
+    "Organizing Club": "Literary Society",
+    "Category": "Workshop",
+    "Date": "2026-02-14",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Literary Society"
+  },
+  {
+    "Event ID": "EV070",
+    "Event Name": "Literary Society Event 2",
+    "Organizing Club": "Literary Society",
+    "Category": "Workshop",
+    "Date": "2026-03-15",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Literary Society"
+  },
+  {
+    "Event ID": "EV071",
+    "Event Name": "Literary Society Event 3",
+    "Organizing Club": "Literary Society",
+    "Category": "Workshop",
+    "Date": "2026-04-16",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Literary Society"
+  },
+  {
+    "Event ID": "EV072",
+    "Event Name": "Literary Society Event 4",
+    "Organizing Club": "Literary Society",
+    "Category": "Workshop",
+    "Date": "2026-05-17",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Literary Society"
+  },
+  {
+    "Event ID": "EV073",
+    "Event Name": "Cinematic Section Event 1",
+    "Organizing Club": "Cinematic Section",
+    "Category": "Workshop",
+    "Date": "2026-02-18",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Cinematic Section"
+  },
+  {
+    "Event ID": "EV074",
+    "Event Name": "Cinematic Section Event 2",
+    "Organizing Club": "Cinematic Section",
+    "Category": "Workshop",
+    "Date": "2026-03-19",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Cinematic Section"
+  },
+  {
+    "Event ID": "EV075",
+    "Event Name": "Cinematic Section Event 3",
+    "Organizing Club": "Cinematic Section",
+    "Category": "Workshop",
+    "Date": "2026-04-20",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Cinematic Section"
+  },
+  {
+    "Event ID": "EV076",
+    "Event Name": "Cinematic Section Event 4",
+    "Organizing Club": "Cinematic Section",
+    "Category": "Workshop",
+    "Date": "2026-05-21",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Cinematic Section"
+  },
+  {
+    "Event ID": "EV077",
+    "Event Name": "Watch Out! Event 1",
+    "Organizing Club": "Watch Out!",
+    "Category": "Workshop",
+    "Date": "2026-02-22",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Watch Out!"
+  },
+  {
+    "Event ID": "EV078",
+    "Event Name": "Watch Out! Event 2",
+    "Organizing Club": "Watch Out!",
+    "Category": "Workshop",
+    "Date": "2026-03-23",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Watch Out!"
+  },
+  {
+    "Event ID": "EV079",
+    "Event Name": "Watch Out! Event 3",
+    "Organizing Club": "Watch Out!",
+    "Category": "Workshop",
+    "Date": "2026-04-24",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Watch Out!"
+  },
+  {
+    "Event ID": "EV080",
+    "Event Name": "Watch Out! Event 4",
+    "Organizing Club": "Watch Out!",
+    "Category": "Workshop",
+    "Date": "2026-05-25",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by Watch Out!"
+  },
+  {
+    "Event ID": "EV081",
+    "Event Name": "IITR Heartbeat Event 1",
+    "Organizing Club": "IITR Heartbeat",
+    "Category": "Workshop",
+    "Date": "2026-02-26",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IITR Heartbeat"
+  },
+  {
+    "Event ID": "EV082",
+    "Event Name": "IITR Heartbeat Event 2",
+    "Organizing Club": "IITR Heartbeat",
+    "Category": "Workshop",
+    "Date": "2026-03-27",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IITR Heartbeat"
+  },
+  {
+    "Event ID": "EV083",
+    "Event Name": "IITR Heartbeat Event 3",
+    "Organizing Club": "IITR Heartbeat",
+    "Category": "Workshop",
+    "Date": "2026-04-28",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IITR Heartbeat"
+  },
+  {
+    "Event ID": "EV084",
+    "Event Name": "IITR Heartbeat Event 4",
+    "Organizing Club": "IITR Heartbeat",
+    "Category": "Workshop",
+    "Date": "2026-05-01",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IITR Heartbeat"
+  },
+  {
+    "Event ID": "EV085",
+    "Event Name": "IEEE Student Chapter Event 1",
+    "Organizing Club": "IEEE Student Chapter",
+    "Category": "Workshop",
+    "Date": "2026-02-02",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IEEE Student Chapter"
+  },
+  {
+    "Event ID": "EV086",
+    "Event Name": "IEEE Student Chapter Event 2",
+    "Organizing Club": "IEEE Student Chapter",
+    "Category": "Workshop",
+    "Date": "2026-03-03",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IEEE Student Chapter"
+  },
+  {
+    "Event ID": "EV087",
+    "Event Name": "IEEE Student Chapter Event 3",
+    "Organizing Club": "IEEE Student Chapter",
+    "Category": "Workshop",
+    "Date": "2026-04-04",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IEEE Student Chapter"
+  },
+  {
+    "Event ID": "EV088",
+    "Event Name": "IEEE Student Chapter Event 4",
+    "Organizing Club": "IEEE Student Chapter",
+    "Category": "Workshop",
+    "Date": "2026-05-05",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by IEEE Student Chapter"
+  },
+  {
+    "Event ID": "EV089",
+    "Event Name": "ASME Student Section Event 1",
+    "Organizing Club": "ASME Student Section",
+    "Category": "Workshop",
+    "Date": "2026-02-06",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by ASME Student Section"
+  },
+  {
+    "Event ID": "EV090",
+    "Event Name": "ASME Student Section Event 2",
+    "Organizing Club": "ASME Student Section",
+    "Category": "Workshop",
+    "Date": "2026-03-07",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by ASME Student Section"
+  },
+  {
+    "Event ID": "EV091",
+    "Event Name": "ASME Student Section Event 3",
+    "Organizing Club": "ASME Student Section",
+    "Category": "Workshop",
+    "Date": "2026-04-08",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by ASME Student Section"
+  },
+  {
+    "Event ID": "EV092",
+    "Event Name": "ASME Student Section Event 4",
+    "Organizing Club": "ASME Student Section",
+    "Category": "Workshop",
+    "Date": "2026-05-09",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by ASME Student Section"
+  },
+  {
+    "Event ID": "EV093",
+    "Event Name": "NSS Event 1",
+    "Organizing Club": "NSS",
+    "Category": "Workshop",
+    "Date": "2026-02-10",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by NSS"
+  },
+  {
+    "Event ID": "EV094",
+    "Event Name": "NSS Event 2",
+    "Organizing Club": "NSS",
+    "Category": "Workshop",
+    "Date": "2026-03-11",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by NSS"
+  },
+  {
+    "Event ID": "EV095",
+    "Event Name": "NSS Event 3",
+    "Organizing Club": "NSS",
+    "Category": "Workshop",
+    "Date": "2026-09-11T18:29:50.000Z",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by NSS"
+  },
+  {
+    "Event ID": "EV096",
+    "Event Name": "NSS Event 4",
+    "Organizing Club": "NSS",
+    "Category": "Workshop",
+    "Date": "2026-05-13",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by NSS"
+  },
+  {
+    "Event ID": "EV097",
+    "Event Name": "SWC Event 1",
+    "Organizing Club": "SWC",
+    "Category": "Workshop",
+    "Date": "2026-02-14",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by SWC"
+  },
+  {
+    "Event ID": "EV098",
+    "Event Name": "SWC Event 2",
+    "Organizing Club": "SWC",
+    "Category": "Workshop",
+    "Date": "2026-03-15",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by SWC"
+  },
+  {
+    "Event ID": "EV099",
+    "Event Name": "SWC Event 3",
+    "Organizing Club": "SWC",
+    "Category": "Workshop",
+    "Date": "2026-04-16",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by SWC"
+  },
+  {
+    "Event ID": "EV100",
+    "Event Name": "SWC Event 4",
+    "Organizing Club": "SWC",
+    "Category": "Workshop",
+    "Date": "2026-05-17",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by SWC"
+  },
+  {
+    "Event ID": "EV101",
+    "Event Name": "HEC Event 1",
+    "Organizing Club": "HEC",
+    "Category": "Workshop",
+    "Date": "2026-02-18",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by HEC"
+  },
+  {
+    "Event ID": "EV102",
+    "Event Name": "HEC Event 2",
+    "Organizing Club": "HEC",
+    "Category": "Workshop",
+    "Date": "2026-03-19",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by HEC"
+  },
+  {
+    "Event ID": "EV103",
+    "Event Name": "HEC Event 3",
+    "Organizing Club": "HEC",
+    "Category": "Workshop",
+    "Date": "2026-04-20",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by HEC"
+  },
+  {
+    "Event ID": "EV104",
+    "Event Name": "HEC Event 4",
+    "Organizing Club": "HEC",
+    "Category": "Workshop",
+    "Date": "2026-05-21",
+    "Start Time": "17:00",
+    "Venue": "SAC",
+    "Description": "Organized by HEC"
+  }
+]

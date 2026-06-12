@@ -1,0 +1,3266 @@
+[
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 1,
+    "Course Code": "CSE101",
+    "Course Name": "Programming (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 1,
+    "Course Code": "CSE102",
+    "Course Name": "Data Structures (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 1,
+    "Course Code": "CSE103",
+    "Course Name": "Database Systems (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 2,
+    "Course Code": "CSE201",
+    "Course Name": "Programming (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 2,
+    "Course Code": "CSE202",
+    "Course Name": "Data Structures (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 2,
+    "Course Code": "CSE203",
+    "Course Name": "Database Systems (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 3,
+    "Course Code": "CSE301",
+    "Course Name": "Programming (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 3,
+    "Course Code": "CSE302",
+    "Course Name": "Data Structures (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 3,
+    "Course Code": "CSE303",
+    "Course Name": "Database Systems (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 4,
+    "Course Code": "CSE401",
+    "Course Name": "Programming (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 4,
+    "Course Code": "CSE402",
+    "Course Name": "Data Structures (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 4,
+    "Course Code": "CSE403",
+    "Course Name": "Database Systems (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 5,
+    "Course Code": "CSE501",
+    "Course Name": "Programming (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 5,
+    "Course Code": "CSE502",
+    "Course Name": "Data Structures (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 5,
+    "Course Code": "CSE503",
+    "Course Name": "Database Systems (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 6,
+    "Course Code": "CSE601",
+    "Course Name": "Programming (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 6,
+    "Course Code": "CSE602",
+    "Course Name": "Data Structures (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 6,
+    "Course Code": "CSE603",
+    "Course Name": "Database Systems (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 7,
+    "Course Code": "CSE701",
+    "Course Name": "Programming (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 7,
+    "Course Code": "CSE702",
+    "Course Name": "Data Structures (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 7,
+    "Course Code": "CSE703",
+    "Course Name": "Database Systems (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 8,
+    "Course Code": "CSE801",
+    "Course Name": "Programming (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 8,
+    "Course Code": "CSE802",
+    "Course Name": "Data Structures (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Computer Science and Engineering (CSE)",
+    "Semester": 8,
+    "Course Code": "CSE803",
+    "Course Name": "Database Systems (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 1,
+    "Course Code": "DSA101",
+    "Course Name": "Python for AI (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 1,
+    "Course Code": "DSA102",
+    "Course Name": "Machine Learning (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 1,
+    "Course Code": "DSA103",
+    "Course Name": "Data Analytics (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 2,
+    "Course Code": "DSA201",
+    "Course Name": "Python for AI (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 2,
+    "Course Code": "DSA202",
+    "Course Name": "Machine Learning (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 2,
+    "Course Code": "DSA203",
+    "Course Name": "Data Analytics (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 3,
+    "Course Code": "DSA301",
+    "Course Name": "Python for AI (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 3,
+    "Course Code": "DSA302",
+    "Course Name": "Machine Learning (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 3,
+    "Course Code": "DSA303",
+    "Course Name": "Data Analytics (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 4,
+    "Course Code": "DSA401",
+    "Course Name": "Python for AI (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 4,
+    "Course Code": "DSA402",
+    "Course Name": "Machine Learning (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 4,
+    "Course Code": "DSA403",
+    "Course Name": "Data Analytics (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 5,
+    "Course Code": "DSA501",
+    "Course Name": "Python for AI (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 5,
+    "Course Code": "DSA502",
+    "Course Name": "Machine Learning (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 5,
+    "Course Code": "DSA503",
+    "Course Name": "Data Analytics (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 6,
+    "Course Code": "DSA601",
+    "Course Name": "Python for AI (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 6,
+    "Course Code": "DSA602",
+    "Course Name": "Machine Learning (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 6,
+    "Course Code": "DSA603",
+    "Course Name": "Data Analytics (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 7,
+    "Course Code": "DSA701",
+    "Course Name": "Python for AI (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 7,
+    "Course Code": "DSA702",
+    "Course Name": "Machine Learning (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 7,
+    "Course Code": "DSA703",
+    "Course Name": "Data Analytics (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 8,
+    "Course Code": "DSA801",
+    "Course Name": "Python for AI (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 8,
+    "Course Code": "DSA802",
+    "Course Name": "Machine Learning (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Data Science and Artificial Intelligence (DSAI)",
+    "Semester": 8,
+    "Course Code": "DSA803",
+    "Course Name": "Data Analytics (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 1,
+    "Course Code": "ECE101",
+    "Course Name": "Digital Electronics (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 1,
+    "Course Code": "ECE102",
+    "Course Name": "Signals and Systems (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 1,
+    "Course Code": "ECE103",
+    "Course Name": "Communication Systems (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 2,
+    "Course Code": "ECE201",
+    "Course Name": "Digital Electronics (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 2,
+    "Course Code": "ECE202",
+    "Course Name": "Signals and Systems (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 2,
+    "Course Code": "ECE203",
+    "Course Name": "Communication Systems (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 3,
+    "Course Code": "ECE301",
+    "Course Name": "Digital Electronics (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 3,
+    "Course Code": "ECE302",
+    "Course Name": "Signals and Systems (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 3,
+    "Course Code": "ECE303",
+    "Course Name": "Communication Systems (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 4,
+    "Course Code": "ECE401",
+    "Course Name": "Digital Electronics (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 4,
+    "Course Code": "ECE402",
+    "Course Name": "Signals and Systems (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 4,
+    "Course Code": "ECE403",
+    "Course Name": "Communication Systems (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 5,
+    "Course Code": "ECE501",
+    "Course Name": "Digital Electronics (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 5,
+    "Course Code": "ECE502",
+    "Course Name": "Signals and Systems (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 5,
+    "Course Code": "ECE503",
+    "Course Name": "Communication Systems (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 6,
+    "Course Code": "ECE601",
+    "Course Name": "Digital Electronics (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 6,
+    "Course Code": "ECE602",
+    "Course Name": "Signals and Systems (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 6,
+    "Course Code": "ECE603",
+    "Course Name": "Communication Systems (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 7,
+    "Course Code": "ECE701",
+    "Course Name": "Digital Electronics (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 7,
+    "Course Code": "ECE702",
+    "Course Name": "Signals and Systems (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 7,
+    "Course Code": "ECE703",
+    "Course Name": "Communication Systems (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 8,
+    "Course Code": "ECE801",
+    "Course Name": "Digital Electronics (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 8,
+    "Course Code": "ECE802",
+    "Course Name": "Signals and Systems (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electronics and Communication Engineering (ECE)",
+    "Semester": 8,
+    "Course Code": "ECE803",
+    "Course Name": "Communication Systems (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 1,
+    "Course Code": "EEE101",
+    "Course Name": "Circuit Theory (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 1,
+    "Course Code": "EEE102",
+    "Course Name": "Electrical Machines (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 1,
+    "Course Code": "EEE103",
+    "Course Name": "Power Systems (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 2,
+    "Course Code": "EEE201",
+    "Course Name": "Circuit Theory (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 2,
+    "Course Code": "EEE202",
+    "Course Name": "Electrical Machines (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 2,
+    "Course Code": "EEE203",
+    "Course Name": "Power Systems (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 3,
+    "Course Code": "EEE301",
+    "Course Name": "Circuit Theory (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 3,
+    "Course Code": "EEE302",
+    "Course Name": "Electrical Machines (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 3,
+    "Course Code": "EEE303",
+    "Course Name": "Power Systems (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 4,
+    "Course Code": "EEE401",
+    "Course Name": "Circuit Theory (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 4,
+    "Course Code": "EEE402",
+    "Course Name": "Electrical Machines (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 4,
+    "Course Code": "EEE403",
+    "Course Name": "Power Systems (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 5,
+    "Course Code": "EEE501",
+    "Course Name": "Circuit Theory (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 5,
+    "Course Code": "EEE502",
+    "Course Name": "Electrical Machines (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 5,
+    "Course Code": "EEE503",
+    "Course Name": "Power Systems (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 6,
+    "Course Code": "EEE601",
+    "Course Name": "Circuit Theory (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 6,
+    "Course Code": "EEE602",
+    "Course Name": "Electrical Machines (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 6,
+    "Course Code": "EEE603",
+    "Course Name": "Power Systems (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 7,
+    "Course Code": "EEE701",
+    "Course Name": "Circuit Theory (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 7,
+    "Course Code": "EEE702",
+    "Course Name": "Electrical Machines (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 7,
+    "Course Code": "EEE703",
+    "Course Name": "Power Systems (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 8,
+    "Course Code": "EEE801",
+    "Course Name": "Circuit Theory (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 8,
+    "Course Code": "EEE802",
+    "Course Name": "Electrical Machines (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Electrical Engineering (EE)",
+    "Semester": 8,
+    "Course Code": "EEE803",
+    "Course Name": "Power Systems (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 1,
+    "Course Code": "MEM101",
+    "Course Name": "Engineering Mechanics (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 1,
+    "Course Code": "MEM102",
+    "Course Name": "Thermodynamics (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 1,
+    "Course Code": "MEM103",
+    "Course Name": "Manufacturing Processes (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 2,
+    "Course Code": "MEM201",
+    "Course Name": "Engineering Mechanics (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 2,
+    "Course Code": "MEM202",
+    "Course Name": "Thermodynamics (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 2,
+    "Course Code": "MEM203",
+    "Course Name": "Manufacturing Processes (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 3,
+    "Course Code": "MEM301",
+    "Course Name": "Engineering Mechanics (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 3,
+    "Course Code": "MEM302",
+    "Course Name": "Thermodynamics (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 3,
+    "Course Code": "MEM303",
+    "Course Name": "Manufacturing Processes (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 4,
+    "Course Code": "MEM401",
+    "Course Name": "Engineering Mechanics (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 4,
+    "Course Code": "MEM402",
+    "Course Name": "Thermodynamics (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 4,
+    "Course Code": "MEM403",
+    "Course Name": "Manufacturing Processes (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 5,
+    "Course Code": "MEM501",
+    "Course Name": "Engineering Mechanics (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 5,
+    "Course Code": "MEM502",
+    "Course Name": "Thermodynamics (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 5,
+    "Course Code": "MEM503",
+    "Course Name": "Manufacturing Processes (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 6,
+    "Course Code": "MEM601",
+    "Course Name": "Engineering Mechanics (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 6,
+    "Course Code": "MEM602",
+    "Course Name": "Thermodynamics (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 6,
+    "Course Code": "MEM603",
+    "Course Name": "Manufacturing Processes (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 7,
+    "Course Code": "MEM701",
+    "Course Name": "Engineering Mechanics (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 7,
+    "Course Code": "MEM702",
+    "Course Name": "Thermodynamics (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 7,
+    "Course Code": "MEM703",
+    "Course Name": "Manufacturing Processes (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 8,
+    "Course Code": "MEM801",
+    "Course Name": "Engineering Mechanics (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 8,
+    "Course Code": "MEM802",
+    "Course Name": "Thermodynamics (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Mechanical Engineering (ME)",
+    "Semester": 8,
+    "Course Code": "MEM803",
+    "Course Name": "Manufacturing Processes (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 1,
+    "Course Code": "CEC101",
+    "Course Name": "Chemical Thermodynamics (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 1,
+    "Course Code": "CEC102",
+    "Course Name": "Fluid Flow (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 1,
+    "Course Code": "CEC103",
+    "Course Name": "Mass Transfer (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 2,
+    "Course Code": "CEC201",
+    "Course Name": "Chemical Thermodynamics (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 2,
+    "Course Code": "CEC202",
+    "Course Name": "Fluid Flow (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 2,
+    "Course Code": "CEC203",
+    "Course Name": "Mass Transfer (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 3,
+    "Course Code": "CEC301",
+    "Course Name": "Chemical Thermodynamics (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 3,
+    "Course Code": "CEC302",
+    "Course Name": "Fluid Flow (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 3,
+    "Course Code": "CEC303",
+    "Course Name": "Mass Transfer (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 4,
+    "Course Code": "CEC401",
+    "Course Name": "Chemical Thermodynamics (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 4,
+    "Course Code": "CEC402",
+    "Course Name": "Fluid Flow (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 4,
+    "Course Code": "CEC403",
+    "Course Name": "Mass Transfer (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 5,
+    "Course Code": "CEC501",
+    "Course Name": "Chemical Thermodynamics (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 5,
+    "Course Code": "CEC502",
+    "Course Name": "Fluid Flow (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 5,
+    "Course Code": "CEC503",
+    "Course Name": "Mass Transfer (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 6,
+    "Course Code": "CEC601",
+    "Course Name": "Chemical Thermodynamics (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 6,
+    "Course Code": "CEC602",
+    "Course Name": "Fluid Flow (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 6,
+    "Course Code": "CEC603",
+    "Course Name": "Mass Transfer (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 7,
+    "Course Code": "CEC701",
+    "Course Name": "Chemical Thermodynamics (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 7,
+    "Course Code": "CEC702",
+    "Course Name": "Fluid Flow (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 7,
+    "Course Code": "CEC703",
+    "Course Name": "Mass Transfer (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 8,
+    "Course Code": "CEC801",
+    "Course Name": "Chemical Thermodynamics (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 8,
+    "Course Code": "CEC802",
+    "Course Name": "Fluid Flow (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Chemical Engineering (CHE)",
+    "Semester": 8,
+    "Course Code": "CEC803",
+    "Course Name": "Mass Transfer (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 1,
+    "Course Code": "CEC101",
+    "Course Name": "Surveying (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 1,
+    "Course Code": "CEC102",
+    "Course Name": "Structural Analysis (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 1,
+    "Course Code": "CEC103",
+    "Course Name": "Fluid Mechanics (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 2,
+    "Course Code": "CEC201",
+    "Course Name": "Surveying (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 2,
+    "Course Code": "CEC202",
+    "Course Name": "Structural Analysis (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 2,
+    "Course Code": "CEC203",
+    "Course Name": "Fluid Mechanics (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 3,
+    "Course Code": "CEC301",
+    "Course Name": "Surveying (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 3,
+    "Course Code": "CEC302",
+    "Course Name": "Structural Analysis (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 3,
+    "Course Code": "CEC303",
+    "Course Name": "Fluid Mechanics (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 4,
+    "Course Code": "CEC401",
+    "Course Name": "Surveying (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 4,
+    "Course Code": "CEC402",
+    "Course Name": "Structural Analysis (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 4,
+    "Course Code": "CEC403",
+    "Course Name": "Fluid Mechanics (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 5,
+    "Course Code": "CEC501",
+    "Course Name": "Surveying (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 5,
+    "Course Code": "CEC502",
+    "Course Name": "Structural Analysis (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 5,
+    "Course Code": "CEC503",
+    "Course Name": "Fluid Mechanics (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 6,
+    "Course Code": "CEC601",
+    "Course Name": "Surveying (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 6,
+    "Course Code": "CEC602",
+    "Course Name": "Structural Analysis (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 6,
+    "Course Code": "CEC603",
+    "Course Name": "Fluid Mechanics (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 7,
+    "Course Code": "CEC701",
+    "Course Name": "Surveying (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 7,
+    "Course Code": "CEC702",
+    "Course Name": "Structural Analysis (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 7,
+    "Course Code": "CEC703",
+    "Course Name": "Fluid Mechanics (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 8,
+    "Course Code": "CEC801",
+    "Course Name": "Surveying (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 8,
+    "Course Code": "CEC802",
+    "Course Name": "Structural Analysis (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Civil Engineering (CE)",
+    "Semester": 8,
+    "Course Code": "CEC803",
+    "Course Name": "Fluid Mechanics (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 1,
+    "Course Code": "PIE101",
+    "Course Name": "Operations Research (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 1,
+    "Course Code": "PIE102",
+    "Course Name": "Industrial Engineering (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 1,
+    "Course Code": "PIE103",
+    "Course Name": "Production Planning (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 2,
+    "Course Code": "PIE201",
+    "Course Name": "Operations Research (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 2,
+    "Course Code": "PIE202",
+    "Course Name": "Industrial Engineering (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 2,
+    "Course Code": "PIE203",
+    "Course Name": "Production Planning (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 3,
+    "Course Code": "PIE301",
+    "Course Name": "Operations Research (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 3,
+    "Course Code": "PIE302",
+    "Course Name": "Industrial Engineering (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 3,
+    "Course Code": "PIE303",
+    "Course Name": "Production Planning (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 4,
+    "Course Code": "PIE401",
+    "Course Name": "Operations Research (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 4,
+    "Course Code": "PIE402",
+    "Course Name": "Industrial Engineering (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 4,
+    "Course Code": "PIE403",
+    "Course Name": "Production Planning (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 5,
+    "Course Code": "PIE501",
+    "Course Name": "Operations Research (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 5,
+    "Course Code": "PIE502",
+    "Course Name": "Industrial Engineering (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 5,
+    "Course Code": "PIE503",
+    "Course Name": "Production Planning (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 6,
+    "Course Code": "PIE601",
+    "Course Name": "Operations Research (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 6,
+    "Course Code": "PIE602",
+    "Course Name": "Industrial Engineering (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 6,
+    "Course Code": "PIE603",
+    "Course Name": "Production Planning (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 7,
+    "Course Code": "PIE701",
+    "Course Name": "Operations Research (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 7,
+    "Course Code": "PIE702",
+    "Course Name": "Industrial Engineering (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 7,
+    "Course Code": "PIE703",
+    "Course Name": "Production Planning (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 8,
+    "Course Code": "PIE801",
+    "Course Name": "Operations Research (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 8,
+    "Course Code": "PIE802",
+    "Course Name": "Industrial Engineering (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Production and Industrial Engineering (PIE)",
+    "Semester": 8,
+    "Course Code": "PIE803",
+    "Course Name": "Production Planning (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 1,
+    "Course Code": "MME101",
+    "Course Name": "Material Science (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 1,
+    "Course Code": "MME102",
+    "Course Name": "Physical Metallurgy (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 1,
+    "Course Code": "MME103",
+    "Course Name": "Extractive Metallurgy (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 2,
+    "Course Code": "MME201",
+    "Course Name": "Material Science (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 2,
+    "Course Code": "MME202",
+    "Course Name": "Physical Metallurgy (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 2,
+    "Course Code": "MME203",
+    "Course Name": "Extractive Metallurgy (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 3,
+    "Course Code": "MME301",
+    "Course Name": "Material Science (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 3,
+    "Course Code": "MME302",
+    "Course Name": "Physical Metallurgy (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 3,
+    "Course Code": "MME303",
+    "Course Name": "Extractive Metallurgy (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 4,
+    "Course Code": "MME401",
+    "Course Name": "Material Science (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 4,
+    "Course Code": "MME402",
+    "Course Name": "Physical Metallurgy (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 4,
+    "Course Code": "MME403",
+    "Course Name": "Extractive Metallurgy (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 5,
+    "Course Code": "MME501",
+    "Course Name": "Material Science (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 5,
+    "Course Code": "MME502",
+    "Course Name": "Physical Metallurgy (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 5,
+    "Course Code": "MME503",
+    "Course Name": "Extractive Metallurgy (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 6,
+    "Course Code": "MME601",
+    "Course Name": "Material Science (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 6,
+    "Course Code": "MME602",
+    "Course Name": "Physical Metallurgy (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 6,
+    "Course Code": "MME603",
+    "Course Name": "Extractive Metallurgy (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 7,
+    "Course Code": "MME701",
+    "Course Name": "Material Science (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 7,
+    "Course Code": "MME702",
+    "Course Name": "Physical Metallurgy (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 7,
+    "Course Code": "MME703",
+    "Course Name": "Extractive Metallurgy (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 8,
+    "Course Code": "MME801",
+    "Course Name": "Material Science (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 8,
+    "Course Code": "MME802",
+    "Course Name": "Physical Metallurgy (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Metallurgical and Materials Engineering (MME)",
+    "Semester": 8,
+    "Course Code": "MME803",
+    "Course Name": "Extractive Metallurgy (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 1,
+    "Course Code": "EPE101",
+    "Course Name": "Modern Physics (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 1,
+    "Course Code": "EPE102",
+    "Course Name": "Quantum Mechanics (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 1,
+    "Course Code": "EPE103",
+    "Course Name": "Electronics (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 2,
+    "Course Code": "EPE201",
+    "Course Name": "Modern Physics (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 2,
+    "Course Code": "EPE202",
+    "Course Name": "Quantum Mechanics (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 2,
+    "Course Code": "EPE203",
+    "Course Name": "Electronics (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 3,
+    "Course Code": "EPE301",
+    "Course Name": "Modern Physics (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 3,
+    "Course Code": "EPE302",
+    "Course Name": "Quantum Mechanics (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 3,
+    "Course Code": "EPE303",
+    "Course Name": "Electronics (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 4,
+    "Course Code": "EPE401",
+    "Course Name": "Modern Physics (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 4,
+    "Course Code": "EPE402",
+    "Course Name": "Quantum Mechanics (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 4,
+    "Course Code": "EPE403",
+    "Course Name": "Electronics (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 5,
+    "Course Code": "EPE501",
+    "Course Name": "Modern Physics (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 5,
+    "Course Code": "EPE502",
+    "Course Name": "Quantum Mechanics (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 5,
+    "Course Code": "EPE503",
+    "Course Name": "Electronics (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 6,
+    "Course Code": "EPE601",
+    "Course Name": "Modern Physics (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 6,
+    "Course Code": "EPE602",
+    "Course Name": "Quantum Mechanics (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 6,
+    "Course Code": "EPE603",
+    "Course Name": "Electronics (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 7,
+    "Course Code": "EPE701",
+    "Course Name": "Modern Physics (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 7,
+    "Course Code": "EPE702",
+    "Course Name": "Quantum Mechanics (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 7,
+    "Course Code": "EPE703",
+    "Course Name": "Electronics (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 8,
+    "Course Code": "EPE801",
+    "Course Name": "Modern Physics (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 8,
+    "Course Code": "EPE802",
+    "Course Name": "Quantum Mechanics (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Engineering Physics (EP)",
+    "Semester": 8,
+    "Course Code": "EPE803",
+    "Course Name": "Electronics (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 1,
+    "Course Code": "BBB101",
+    "Course Name": "Cell Biology (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 1,
+    "Course Code": "BBB102",
+    "Course Name": "Genetics (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 1,
+    "Course Code": "BBB103",
+    "Course Name": "Bioprocess Engineering (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 2,
+    "Course Code": "BBB201",
+    "Course Name": "Cell Biology (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 2,
+    "Course Code": "BBB202",
+    "Course Name": "Genetics (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 2,
+    "Course Code": "BBB203",
+    "Course Name": "Bioprocess Engineering (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 3,
+    "Course Code": "BBB301",
+    "Course Name": "Cell Biology (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 3,
+    "Course Code": "BBB302",
+    "Course Name": "Genetics (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 3,
+    "Course Code": "BBB303",
+    "Course Name": "Bioprocess Engineering (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 4,
+    "Course Code": "BBB401",
+    "Course Name": "Cell Biology (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 4,
+    "Course Code": "BBB402",
+    "Course Name": "Genetics (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 4,
+    "Course Code": "BBB403",
+    "Course Name": "Bioprocess Engineering (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 5,
+    "Course Code": "BBB501",
+    "Course Name": "Cell Biology (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 5,
+    "Course Code": "BBB502",
+    "Course Name": "Genetics (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 5,
+    "Course Code": "BBB503",
+    "Course Name": "Bioprocess Engineering (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 6,
+    "Course Code": "BBB601",
+    "Course Name": "Cell Biology (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 6,
+    "Course Code": "BBB602",
+    "Course Name": "Genetics (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 6,
+    "Course Code": "BBB603",
+    "Course Name": "Bioprocess Engineering (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 7,
+    "Course Code": "BBB701",
+    "Course Name": "Cell Biology (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 7,
+    "Course Code": "BBB702",
+    "Course Name": "Genetics (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 7,
+    "Course Code": "BBB703",
+    "Course Name": "Bioprocess Engineering (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 8,
+    "Course Code": "BBB801",
+    "Course Name": "Cell Biology (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 8,
+    "Course Code": "BBB802",
+    "Course Name": "Genetics (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Biosciences and Bioengineering (BSBE)",
+    "Semester": 8,
+    "Course Code": "BBB803",
+    "Course Name": "Bioprocess Engineering (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 1,
+    "Course Code": "EEE101",
+    "Course Name": "Energy Systems (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 1,
+    "Course Code": "EEE102",
+    "Course Name": "Renewable Energy (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 1,
+    "Course Code": "EEE103",
+    "Course Name": "Heat Transfer (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 2,
+    "Course Code": "EEE201",
+    "Course Name": "Energy Systems (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 2,
+    "Course Code": "EEE202",
+    "Course Name": "Renewable Energy (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 2,
+    "Course Code": "EEE203",
+    "Course Name": "Heat Transfer (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 3,
+    "Course Code": "EEE301",
+    "Course Name": "Energy Systems (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 3,
+    "Course Code": "EEE302",
+    "Course Name": "Renewable Energy (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 3,
+    "Course Code": "EEE303",
+    "Course Name": "Heat Transfer (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 4,
+    "Course Code": "EEE401",
+    "Course Name": "Energy Systems (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 4,
+    "Course Code": "EEE402",
+    "Course Name": "Renewable Energy (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 4,
+    "Course Code": "EEE403",
+    "Course Name": "Heat Transfer (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 5,
+    "Course Code": "EEE501",
+    "Course Name": "Energy Systems (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 5,
+    "Course Code": "EEE502",
+    "Course Name": "Renewable Energy (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 5,
+    "Course Code": "EEE503",
+    "Course Name": "Heat Transfer (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 6,
+    "Course Code": "EEE601",
+    "Course Name": "Energy Systems (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 6,
+    "Course Code": "EEE602",
+    "Course Name": "Renewable Energy (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 6,
+    "Course Code": "EEE603",
+    "Course Name": "Heat Transfer (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 7,
+    "Course Code": "EEE701",
+    "Course Name": "Energy Systems (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 7,
+    "Course Code": "EEE702",
+    "Course Name": "Renewable Energy (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 7,
+    "Course Code": "EEE703",
+    "Course Name": "Heat Transfer (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 8,
+    "Course Code": "EEE801",
+    "Course Name": "Energy Systems (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 8,
+    "Course Code": "EEE802",
+    "Course Name": "Renewable Energy (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Energy Engineering (ENE)",
+    "Semester": 8,
+    "Course Code": "EEE803",
+    "Course Name": "Heat Transfer (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 1,
+    "Course Code": "ABA101",
+    "Course Name": "Architectural Design (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 1,
+    "Course Code": "ABA102",
+    "Course Name": "Building Construction (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 1,
+    "Course Code": "ABA103",
+    "Course Name": "Urban Planning (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 2,
+    "Course Code": "ABA201",
+    "Course Name": "Architectural Design (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 2,
+    "Course Code": "ABA202",
+    "Course Name": "Building Construction (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 2,
+    "Course Code": "ABA203",
+    "Course Name": "Urban Planning (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 3,
+    "Course Code": "ABA301",
+    "Course Name": "Architectural Design (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 3,
+    "Course Code": "ABA302",
+    "Course Name": "Building Construction (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 3,
+    "Course Code": "ABA303",
+    "Course Name": "Urban Planning (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 4,
+    "Course Code": "ABA401",
+    "Course Name": "Architectural Design (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 4,
+    "Course Code": "ABA402",
+    "Course Name": "Building Construction (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 4,
+    "Course Code": "ABA403",
+    "Course Name": "Urban Planning (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 5,
+    "Course Code": "ABA501",
+    "Course Name": "Architectural Design (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 5,
+    "Course Code": "ABA502",
+    "Course Name": "Building Construction (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 5,
+    "Course Code": "ABA503",
+    "Course Name": "Urban Planning (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 6,
+    "Course Code": "ABA601",
+    "Course Name": "Architectural Design (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 6,
+    "Course Code": "ABA602",
+    "Course Name": "Building Construction (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 6,
+    "Course Code": "ABA603",
+    "Course Name": "Urban Planning (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 7,
+    "Course Code": "ABA701",
+    "Course Name": "Architectural Design (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 7,
+    "Course Code": "ABA702",
+    "Course Name": "Building Construction (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 7,
+    "Course Code": "ABA703",
+    "Course Name": "Urban Planning (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 8,
+    "Course Code": "ABA801",
+    "Course Name": "Architectural Design (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 8,
+    "Course Code": "ABA802",
+    "Course Name": "Building Construction (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Architecture (B.Arch.)",
+    "Semester": 8,
+    "Course Code": "ABA803",
+    "Course Name": "Urban Planning (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 1,
+    "Course Code": "BSM101",
+    "Course Name": "Discrete Mathematics (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 1,
+    "Course Code": "BSM102",
+    "Course Name": "Algorithms (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 1,
+    "Course Code": "BSM103",
+    "Course Name": "Probability (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 2,
+    "Course Code": "BSM201",
+    "Course Name": "Discrete Mathematics (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 2,
+    "Course Code": "BSM202",
+    "Course Name": "Algorithms (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 2,
+    "Course Code": "BSM203",
+    "Course Name": "Probability (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 3,
+    "Course Code": "BSM301",
+    "Course Name": "Discrete Mathematics (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 3,
+    "Course Code": "BSM302",
+    "Course Name": "Algorithms (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 3,
+    "Course Code": "BSM303",
+    "Course Name": "Probability (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 4,
+    "Course Code": "BSM401",
+    "Course Name": "Discrete Mathematics (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 4,
+    "Course Code": "BSM402",
+    "Course Name": "Algorithms (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 4,
+    "Course Code": "BSM403",
+    "Course Name": "Probability (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 5,
+    "Course Code": "BSM501",
+    "Course Name": "Discrete Mathematics (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 5,
+    "Course Code": "BSM502",
+    "Course Name": "Algorithms (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 5,
+    "Course Code": "BSM503",
+    "Course Name": "Probability (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 6,
+    "Course Code": "BSM601",
+    "Course Name": "Discrete Mathematics (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 6,
+    "Course Code": "BSM602",
+    "Course Name": "Algorithms (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 6,
+    "Course Code": "BSM603",
+    "Course Name": "Probability (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 7,
+    "Course Code": "BSM701",
+    "Course Name": "Discrete Mathematics (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 7,
+    "Course Code": "BSM702",
+    "Course Name": "Algorithms (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 7,
+    "Course Code": "BSM703",
+    "Course Name": "Probability (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 8,
+    "Course Code": "BSM801",
+    "Course Name": "Discrete Mathematics (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 8,
+    "Course Code": "BSM802",
+    "Course Name": "Algorithms (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "BS-MS Mathematics and Computing (MnC)",
+    "Semester": 8,
+    "Course Code": "BSM803",
+    "Course Name": "Probability (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 1,
+    "Course Code": "GT101",
+    "Course Name": "Mineralogy (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 1,
+    "Course Code": "GT102",
+    "Course Name": "Geology (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 1,
+    "Course Code": "GT103",
+    "Course Name": "Remote Sensing (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 2,
+    "Course Code": "GT201",
+    "Course Name": "Mineralogy (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 2,
+    "Course Code": "GT202",
+    "Course Name": "Geology (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 2,
+    "Course Code": "GT203",
+    "Course Name": "Remote Sensing (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 3,
+    "Course Code": "GT301",
+    "Course Name": "Mineralogy (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 3,
+    "Course Code": "GT302",
+    "Course Name": "Geology (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 3,
+    "Course Code": "GT303",
+    "Course Name": "Remote Sensing (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 4,
+    "Course Code": "GT401",
+    "Course Name": "Mineralogy (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 4,
+    "Course Code": "GT402",
+    "Course Name": "Geology (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 4,
+    "Course Code": "GT403",
+    "Course Name": "Remote Sensing (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 5,
+    "Course Code": "GT501",
+    "Course Name": "Mineralogy (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 5,
+    "Course Code": "GT502",
+    "Course Name": "Geology (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 5,
+    "Course Code": "GT503",
+    "Course Name": "Remote Sensing (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 6,
+    "Course Code": "GT601",
+    "Course Name": "Mineralogy (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 6,
+    "Course Code": "GT602",
+    "Course Name": "Geology (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 6,
+    "Course Code": "GT603",
+    "Course Name": "Remote Sensing (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 7,
+    "Course Code": "GT701",
+    "Course Name": "Mineralogy (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 7,
+    "Course Code": "GT702",
+    "Course Name": "Geology (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 7,
+    "Course Code": "GT703",
+    "Course Name": "Remote Sensing (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 8,
+    "Course Code": "GT801",
+    "Course Name": "Mineralogy (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 8,
+    "Course Code": "GT802",
+    "Course Name": "Geology (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geological Technology",
+    "Semester": 8,
+    "Course Code": "GT803",
+    "Course Name": "Remote Sensing (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 1,
+    "Course Code": "GT101",
+    "Course Name": "Geophysics (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 1,
+    "Course Code": "GT102",
+    "Course Name": "Seismology (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 1,
+    "Course Code": "GT103",
+    "Course Name": "Earth Imaging (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 2,
+    "Course Code": "GT201",
+    "Course Name": "Geophysics (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 2,
+    "Course Code": "GT202",
+    "Course Name": "Seismology (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 2,
+    "Course Code": "GT203",
+    "Course Name": "Earth Imaging (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 3,
+    "Course Code": "GT301",
+    "Course Name": "Geophysics (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 3,
+    "Course Code": "GT302",
+    "Course Name": "Seismology (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 3,
+    "Course Code": "GT303",
+    "Course Name": "Earth Imaging (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 4,
+    "Course Code": "GT401",
+    "Course Name": "Geophysics (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 4,
+    "Course Code": "GT402",
+    "Course Name": "Seismology (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 4,
+    "Course Code": "GT403",
+    "Course Name": "Earth Imaging (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 5,
+    "Course Code": "GT501",
+    "Course Name": "Geophysics (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 5,
+    "Course Code": "GT502",
+    "Course Name": "Seismology (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 5,
+    "Course Code": "GT503",
+    "Course Name": "Earth Imaging (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 6,
+    "Course Code": "GT601",
+    "Course Name": "Geophysics (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 6,
+    "Course Code": "GT602",
+    "Course Name": "Seismology (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 6,
+    "Course Code": "GT603",
+    "Course Name": "Earth Imaging (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 7,
+    "Course Code": "GT701",
+    "Course Name": "Geophysics (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 7,
+    "Course Code": "GT702",
+    "Course Name": "Seismology (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 7,
+    "Course Code": "GT703",
+    "Course Name": "Earth Imaging (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 8,
+    "Course Code": "GT801",
+    "Course Name": "Geophysics (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 8,
+    "Course Code": "GT802",
+    "Course Name": "Seismology (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Geophysical Technology",
+    "Semester": 8,
+    "Course Code": "GT803",
+    "Course Name": "Earth Imaging (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 1,
+    "Course Code": "BDB101",
+    "Course Name": "Design Fundamentals (Sem 1)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 1,
+    "Course Code": "BDB102",
+    "Course Name": "Visual Design (Sem 1)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 1,
+    "Course Code": "BDB103",
+    "Course Name": "User Experience (Sem 1)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 2,
+    "Course Code": "BDB201",
+    "Course Name": "Design Fundamentals (Sem 2)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 2,
+    "Course Code": "BDB202",
+    "Course Name": "Visual Design (Sem 2)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 2,
+    "Course Code": "BDB203",
+    "Course Name": "User Experience (Sem 2)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 3,
+    "Course Code": "BDB301",
+    "Course Name": "Design Fundamentals (Sem 3)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 3,
+    "Course Code": "BDB302",
+    "Course Name": "Visual Design (Sem 3)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 3,
+    "Course Code": "BDB303",
+    "Course Name": "User Experience (Sem 3)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 4,
+    "Course Code": "BDB401",
+    "Course Name": "Design Fundamentals (Sem 4)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 4,
+    "Course Code": "BDB402",
+    "Course Name": "Visual Design (Sem 4)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 4,
+    "Course Code": "BDB403",
+    "Course Name": "User Experience (Sem 4)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 5,
+    "Course Code": "BDB501",
+    "Course Name": "Design Fundamentals (Sem 5)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 5,
+    "Course Code": "BDB502",
+    "Course Name": "Visual Design (Sem 5)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 5,
+    "Course Code": "BDB503",
+    "Course Name": "User Experience (Sem 5)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 6,
+    "Course Code": "BDB601",
+    "Course Name": "Design Fundamentals (Sem 6)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 6,
+    "Course Code": "BDB602",
+    "Course Name": "Visual Design (Sem 6)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 6,
+    "Course Code": "BDB603",
+    "Course Name": "User Experience (Sem 6)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 7,
+    "Course Code": "BDB701",
+    "Course Name": "Design Fundamentals (Sem 7)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 7,
+    "Course Code": "BDB702",
+    "Course Name": "Visual Design (Sem 7)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 7,
+    "Course Code": "BDB703",
+    "Course Name": "User Experience (Sem 7)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 8,
+    "Course Code": "BDB801",
+    "Course Name": "Design Fundamentals (Sem 8)",
+    "Faculty": "Faculty 1",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 8,
+    "Course Code": "BDB802",
+    "Course Name": "Visual Design (Sem 8)",
+    "Faculty": "Faculty 2",
+    "Credits": 3
+  },
+  {
+    "Branch": "Bachelor of Design (B.Des.)",
+    "Semester": 8,
+    "Course Code": "BDB803",
+    "Course Name": "User Experience (Sem 8)",
+    "Faculty": "Faculty 3",
+    "Credits": 3
+  }
+]
