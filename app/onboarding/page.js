@@ -46,14 +46,14 @@ export default function OnboardingPage() {
         if (eventRes.ok) {
           const data = await eventRes.json();
           const eventsData = data.data || [];
-          const uniqueClubs = [...new Set(eventsData.map(e => e['Organizing Club']).filter(Boolean))];
+          const uniqueClubs = [...new Set(eventsData.map(e => e.organizingClub || e['Organizing Club']).filter(Boolean))];
           setClubsList(uniqueClubs.sort());
         }
         
         if (cafeRes.ok) {
           const data = await cafeRes.json();
           const cafeData = data.data || [];
-          const uniqueDishes = [...new Set(cafeData.map(d => d['Item Name']).filter(Boolean))];
+          const uniqueDishes = [...new Set(cafeData.map(d => d.itemName || d['Item Name']).filter(Boolean))];
           setDishesList(uniqueDishes.sort());
         }
       } catch (err) {
