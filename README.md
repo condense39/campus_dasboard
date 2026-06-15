@@ -2,6 +2,8 @@
 
 The Campus Intelligence Dashboard is an AI-powered student portal designed for IIT Roorkee. It provides students with a beautifully designed, centralized interface to seamlessly manage their academic courses, track their club events, and view cafeteria menus. It also features a fully integrated Gemini AI search assistant capable of answering complex campus queries by intelligently parsing local datasets and generating tabular results.
 
+LINK: https://campus-dashboard123.vercel.app
+
 ## Tech Stack
 
 | Technology | Purpose |
